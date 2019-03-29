@@ -1,0 +1,2 @@
+No se puede ver ya que los cambios los guarde en una ramificacion que no uni a la linea principal "master" entonces lo otro queda guardado 
+en el branch "opcion_2"
