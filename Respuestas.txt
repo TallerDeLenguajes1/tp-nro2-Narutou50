@@ -1,2 +1,3 @@
 No se puede ver ya que los cambios los guarde en una ramificacion que no uni a la linea principal "master" entonces lo otro queda guardado 
 en el branch "opcion_2"
+Profesor para que busque en la lista soy Nahuel Alejandro Diaz
